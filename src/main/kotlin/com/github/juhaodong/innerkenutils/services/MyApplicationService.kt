@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.juhaodong.innerkenutils.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.juhaodong.innerkenutils.MyBundle
 
 class MyApplicationService {
 
